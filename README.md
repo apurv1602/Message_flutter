@@ -1,7 +1,7 @@
-# login
+# messaging app
 
 A new Flutter project.
-
+here i tried to build a application based on what i learned.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
